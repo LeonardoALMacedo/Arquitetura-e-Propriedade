@@ -18,3 +18,7 @@ Um objetivo educativo secundário é incentivar o treino da matemática básica,
 ## Vídeo de demonstração
 
 [![Thumbnail](https://img.youtube.com/vi/Yaev889xZR8/0.jpg)](https://www.youtube.com/watch?v=Yaev889xZR8)
+
+## Materiais complementares
+
+[Informações sobre os modelos de carta](https://docs.google.com/spreadsheets/d/1LsMcaTWpsDWC57FCrjDkRiyvROOaFrOsvzB7PtybEvA/edit?usp=sharing)
